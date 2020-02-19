@@ -1,4 +1,16 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "beautifulhugo"
+theme = "hyde"
+[Menus]
+  main = [
+      {Name = "Github", URL = "https://github.com/allysono/"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/allysonoliveira/"},
+      {Name = "Twitter", URL = "https://www.twitter.com/asoliveira},
+      {Name = "Mail", URL = "Mailto:asoliveira@outlook.com}
+[params]
+  description = "SRE/Devops"
+[params]
+  themeColor = "theme-base-08"
+
+  
