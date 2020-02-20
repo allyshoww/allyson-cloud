@@ -11,5 +11,3 @@ theme = "hyde"
 [params]
   description = "SRE/Devops"
   themeColor = "theme-base-08"
-
-  
