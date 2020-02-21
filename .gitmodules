@@ -4,3 +4,6 @@
 [submodule "themes/purehugo"]
 	path = themes/purehugo
 	url = https://github.com/dplesca/purehugo.git
+[submodule "themes/hyde-hyde"]
+	path = themes/hyde-hyde
+	url = https://github.com/htr3n/hyde-hyde.git

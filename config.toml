@@ -1,7 +1,7 @@
 baseURL = "https://example.org/"
 languageCode = "en-us"
 title = "Allyson de Souza Oliveira"
-theme = "purehugo"
+theme = "hyde-hyde"
 
 [params]
   description = "SRE/Devops"
