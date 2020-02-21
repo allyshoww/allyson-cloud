@@ -2,8 +2,9 @@ baseURL = "https://example.org/"
 languageCode = "en-us"
 title = "Allyson de Souza Oliveira"
 theme = "purehugo"
+
 [params]
   description = "SRE/Devops"
-  twitterName = @asoliveira
-  githubName = @allysono
-  linkedinName = allysonoliveira
+  twitterName = "asoliveira"
+  githubName = "allysono"
+  linkedinName = "allysonoliveira"
