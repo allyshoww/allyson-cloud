@@ -1,13 +1,9 @@
 baseURL = "https://example.org/"
 languageCode = "en-us"
 title = "Allyson de Souza Oliveira"
-theme = "hyde"
-[Menus]
-  main = [
-      {Name = "Github", URL = "https://github.com/allysono/"},
-      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/allysonoliveira/"},
-      {Name = "Twitter", URL = "https://www.twitter.com/asoliveira"},
-      {Name = "Mail", URL = "Mailto:asoliveira@outlook.com"}]
+theme = "purehugo"
 [params]
   description = "SRE/Devops"
-  themeColor = "theme-base-08"
+  twitterName = @asoliveira
+  githubName = @allysono
+  linkedinName = allysonoliveira
