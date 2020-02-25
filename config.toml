@@ -1,10 +1,14 @@
 baseURL = "https://example.org/"
 languageCode = "en-us"
-title = "Allyson de Souza Oliveira"
+title = "Allyson Oliveira"
 theme = "hyde-hyde"
 
 [params]
-  description = "SRE/Devops"
-  twitterName = "asoliveira"
-  githubName = "allysono"
-  linkedinName = "allysonoliveira"
+description = "Churrasqueiro nos finais de semana e desenvolvendo infraestrutura de segunda a sexta"
+
+[params.social]  
+  twitter = "asoliveira"
+  github = "allysono"
+  linkedin = "allysonoliveira"
+  telegram = "sre_allyson"
+  

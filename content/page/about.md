@@ -1,14 +1,35 @@
 +++
-title = "About"
-date = 2015-04-03T02:13:50Z
-author = "My Name"
-description = "Things about me."
+title = "Sobre Mim"
+date = 2020-02-25T02:13:50Z
+author = "Allyson Oliveira"
+description = "$whoami"
 +++
 
-## About
+Trabalho com tecnologia da informação desde 2006. Na minha carreira, adquiri sólidos conhecimentos em infraestrutura e adminitração de servidores, participando da implementação de diversos projetos (inclusive internacionais) e sempre entregando sempre a melhor solução ao cliente.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec dolor in magna lobortis egestas. Suspendisse eu erat tempor, tristique neque eu, convallis nulla. Curabitur vel bibendum lacus, at semper mauris. Suspendisse aliquet commodo ex, sed sagittis metus aliquam id. Maecenas feugiat rutrum lorem vel imperdiet. Nullam ornare lectus ut enim finibus, et porttitor mi tincidunt. Aenean lacinia, leo quis vehicula eleifend, quam libero sagittis erat, at euismod augue mauris et sapien. Sed id vehicula lectus, sit amet auctor ipsum. Nunc sed massa vel ex condimentum aliquam in a enim. Cras enim sem, tristique eu enim ac, congue commodo mi. Integer quis orci at dolor blandit eleifend.
+O meu background técnico facilitou minha transição para atuar como Devops/SRE.
 
-## School
+Trabalho atualmente com arquitetura, implementação, monitoramento e gerenciamento de diversos ambientes em cloud computing, tais como, migração e arquitetura de infraestrutura on-premises para nuvem, monitoramento e gerenciamento de app's em ambientes de cloud e em orquestradores de containeres (Kubernetes, por exemplo), deploy continuo de aplicativos web e mobile, análise da arquitetura de aplicação para deixá-la mais resiliente possível e testes com recuperação de desastres de infraestrutura, atuando sempre com metodologia ageis, com foco em automação de tarefas e redução de tempo gasto em determinadas atividades.
 
-Sed quis pulvinar nisi, sed dapibus lacus. Mauris tempus ex ut ipsum facilisis interdum. Integer feugiat urna sed feugiat tempor. Quisque dictum vestibulum feugiat. Nunc nec est volutpat lorem imperdiet egestas sit amet ut orci. Aliquam venenatis neque ipsum, a placerat lectus cursus at. Donec pellentesque tellus hendrerit faucibus posuere. Etiam gravida consequat lectus, volutpat consectetur velit convallis nec. Praesent sagittis luctus dignissim.
+**Meus principais conhecimentos:**
+
+• *Amazon Web Services*, *Azure* e *Google Cloud*;
+
+• Orquestração de containers com *Kubernetes* e *Docker Swarm*;
+
+• Desenvolvimento de scripts e tasks de automação com *Python* e iniciando estudos de *golang*;
+
+• *Monitoramento* de infraestrutura e aplicações;
+
+• Criação e desenvolvimento de *métricas SRE* para as aplicações;
+
+• Ferramentas de automação Devops: *Terraform*, *Docker*, *Ansible*, *Git*, *Github*, *Jenkins*, *Jira* e *Confluence*;
+
+• Administração e gerenciamento de servidores *Linux* e *Windows Server*;
+
+• VMware (*Horizon VDI, vSRM, vSOM, vCenter, ESXi, VDP, etc*); 
+
+
+## Escolaridade
+
+Sou pós graduado em Cloud Computing pela Estacio e estou afim de tentar fazer mestrado na UFSCAR em araraquara.
