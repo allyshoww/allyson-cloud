@@ -22,4 +22,4 @@ description = "Churrasqueiro nos finais de semana e desenvolvendo infraestrutura
     name = "About"
     identifier = "about"
     weight = 200
-    url = "page/about.md"
+    url = "/page/about.md"
