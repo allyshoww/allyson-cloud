@@ -1,3 +1,10 @@
++++
+title = "Tags AWS com o .tfvars"
+date = 2020-03-07T07:13:50Z
+author = "Allyson Oliveira"
+description = "Precisa alterar ou adicionar várias tags de uma vez só? Dá uma espiadinha!"
++++
+
 ## Adicionando tags com o arquivo .tfvars na AWS
 
 Esses dias eu tive uma tarefa no trabalho que era adicionar tags em recursos já existentes. Por exemplo:
