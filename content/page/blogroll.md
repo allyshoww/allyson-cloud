@@ -2,8 +2,7 @@
 title = "blogroll"
 date = 2020-03-07T05:13:50Z
 author = "Allyson Oliveira"
-description = "Estão afim de seguir uma galera que é fera na area e sempre compartilha conteudos de qualidade? Segue minha lista: 
-"
+description = "Estão afim de seguir uma galera que é fera na area e sempre compartilha conteudos de qualidade? Segue minha lista:"
 +++
 
 1. [Churrops](https://churrops.io/)
