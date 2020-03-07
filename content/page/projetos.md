@@ -2,7 +2,7 @@
 title = "Projetos que já participei"
 date = 2020-03-07T05:13:50Z
 author = "Allyson Oliveira"
-description = "Esses são alguns projetos que já participei na minha carreira, tanto quanto sysadmin e consultor de tecnologia quanto de devops e sre. "
+description = "Esses são alguns projetos que já participei na minha carreira, tanto quanto sysadmin e consultor de tecnologia quanto de devops e sre."
 +++
 
 ● Consolidação de todo o ambiente físico em servidores virtualizados com VMware em uma IBM Bladecenter S para empresa do segmento da saúde no interior do estado de São Paulo;
