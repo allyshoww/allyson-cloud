@@ -6,11 +6,16 @@ theme = "hyde-hyde"
 [params]
 description = "Churrasqueiro nos finais de semana e desenvolvendo infraestrutura de segunda a sexta"
 
+# sidebar, copyright & license
+licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+showBuiltWith = tru
+
 [params.social]  
   twitter = "asoliveira"
   github = "allysono"
   linkedin = "allysonoliveira"
   telegram = "sre_allyson"
+  email = "asoliveira@outlook.com"
 
 ## Main Menu
 [[menu.main]]
@@ -22,4 +27,4 @@ description = "Churrasqueiro nos finais de semana e desenvolvendo infraestrutura
     name = "Sobre Mim"
     identifier = "Sobre Mim"
     weight = 200
-    url = "/content/page/about.md"
+    url = "/about/"
