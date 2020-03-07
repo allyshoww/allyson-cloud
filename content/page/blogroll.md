@@ -2,10 +2,9 @@
 title = "blogroll"
 date = 2020-03-07T05:13:50Z
 author = "Allyson Oliveira"
-description = "Esses são alguns blogs que acompanho de pessoas que são referências na area para mim!"
+description = "Estão afim de seguir uma galera que é fera na area e sempre compartilha conteudos de qualidade? Segue minha lista: 
+"
 +++
-
-Estão afim de seguir uma galera que é fera na area e sempre compartilha conteudos de qualidade? Segue minha lista: 
 
 1. [Churrops](https://churrops.io/)
 2. [Guto Carvalho](http://gutocarvalho.net/blog/)

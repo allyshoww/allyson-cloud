@@ -2,10 +2,11 @@
 title = "Sobre Mim"
 date = 2020-02-25T02:13:50Z
 author = "Allyson Oliveira"
-description = "$whoami"
+description = "$whoami
+
+Trabalho com tecnologia da informação desde 2006. Na minha carreira, adquiri sólidos conhecimentos em infraestrutura e adminitração de servidores, participando da implementação de diversos projetos (inclusive internacionais) e sempre entregando sempre a melhor solução ao cliente."
 +++
 
-Trabalho com tecnologia da informação desde 2006. Na minha carreira, adquiri sólidos conhecimentos em infraestrutura e adminitração de servidores, participando da implementação de diversos projetos (inclusive internacionais) e sempre entregando sempre a melhor solução ao cliente.
 
 O meu background técnico facilitou minha transição para atuar como Devops/SRE.
 
