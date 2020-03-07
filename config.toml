@@ -28,3 +28,13 @@ showBuiltWith = true
     identifier = "Sobre Mim"
     weight = 200
     url = "/about/"
+[[menu.main]]
+    name = "Blogroll"
+    identifier = "Blogroll"
+    weight = 200
+    url = "/blogroll/"
+[[menu.main]]
+    name = "Projetos"
+    identifier = "Projetos"
+    weight = 200
+    url = "/projetos/"
