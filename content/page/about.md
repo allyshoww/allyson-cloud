@@ -17,13 +17,13 @@ Trabalho atualmente com arquitetura, implementação, monitoramento e gerenciame
 
 • Orquestração de containers com *Kubernetes* e *Docker Swarm*;
 
+• Ferramentas de automação Devops: *Terraform*, *Docker*, *Ansible*, *Git*, *Github*, *Jenkins*, *Jira* e *Confluence*;
+
 • Desenvolvimento de scripts e tasks de automação com *Python* e iniciando estudos de *golang*;
 
 • *Monitoramento* de infraestrutura e aplicações;
 
 • Criação e desenvolvimento de *métricas SRE* para as aplicações;
-
-• Ferramentas de automação Devops: *Terraform*, *Docker*, *Ansible*, *Git*, *Github*, *Jenkins*, *Jira* e *Confluence*;
 
 • Administração e gerenciamento de servidores *Linux* e *Windows Server*;
 
@@ -32,4 +32,6 @@ Trabalho atualmente com arquitetura, implementação, monitoramento e gerenciame
 
 ## Escolaridade
 
-Sou pós graduado em Cloud Computing pela Estacio e estou afim de tentar fazer mestrado na UFSCAR em araraquara.
+Sou pós graduado em Cloud Computing pela Estacio e estou afim de tentar fazer mestrado na [UFSCAR](http://www.propg.ufscar.br/pt-br/pos-na-ufscar/programas) em araraquara, contando com a ajuda e dicas de um grande profissional, o [André Luis Cristiani!](http://localhost:1313/) 
+
+Quem sabe um dia né! ^.^y
