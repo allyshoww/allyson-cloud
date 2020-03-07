@@ -2,22 +2,26 @@
 title = "Tags AWS com o .tfvars"
 date = 2020-03-07T07:13:50Z
 author = "Allyson Oliveira"
+tags: ["linux", "terraform", "automação", "AWS", "Devops", "Sre"]
 description = "Precisa alterar ou adicionar várias tags de uma vez só? Dá uma espiadinha!"
 +++
 
 ## Adicionando tags com o arquivo .tfvars na AWS
 
 Esses dias eu tive uma tarefa no trabalho que era adicionar tags em recursos já existentes. Por exemplo:
->Nome da app: Parasite
-	Owner: Mr.Kim
-  
-  Na task, falava que todos os recursos da AWS precisam ter essas duas novas tags, para  facilitar o controle financeiro.
+
+```
+Nome da app: Parasite
+Owner: Mr.Kim
+```
+
+Na task, falava que todos os recursos da AWS precisam ter essas duas novas tags, para  facilitar o controle financeiro.
 
 Com essa task em wip, pensei que tinham duas maneiras para fazer:
 
- Entrar recurso por recurso, inclusive nos ambientes de prod, dev e QA e adicionar essas tags;
+1. Entrar recurso por recurso, inclusive nos ambientes de prod, dev e QA e adicionar essas tags;
 
-Ou editar um arquivo chamado terraform.TFVARS, adicionar as tags necessárias, copiar esse arquivo para todos os recursos e mover a task para done!
+2. Editar um arquivo chamado terraform.TFVARS, adicionar as tags necessárias, copiar esse arquivo para todos os recursos e mover a task para done!
 
 ![It's magic!](/img/magic.jpeg)
 
@@ -34,7 +38,7 @@ Você adiciona esse ip no seu arquivo tfvars, não no variable ou vars.tf. Quer 
 variable "foo" {
 default = "bar"
 description = "Descrição da minha variável"
-	}
+}
 ```    
 			
 *Arquivo variables.tf com o seu projeto tenha o arquivo tfvars.*
@@ -57,4 +61,4 @@ tags = {
 }
 ```
 
-E ai, vocês já usam o .tfvars no código de vocês? 
+E ai, vocês já usam o .tfvars no código de vocês? Comenta ai! :D
