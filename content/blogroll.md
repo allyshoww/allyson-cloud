@@ -5,6 +5,8 @@ author = "Allyson Oliveira"
 description = "Estão afim de seguir uma galera que é fera na area e sempre compartilha conteudos de qualidade? Segue minha lista:"
 +++
 
+Estão afim de seguir uma galera que é fera na area e sempre compartilha conteudos de qualidade? Segue minha lista:
+
 1. [Churrops](https://churrops.io/)
 2. [Guto Carvalho](http://gutocarvalho.net/blog/)
 3. [Reddit - Devops](https://www.reddit.com/r/devops/)
