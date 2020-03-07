@@ -8,7 +8,7 @@ description = "Churrasqueiro nos finais de semana e desenvolvendo infraestrutura
 
 # sidebar, copyright & license
 licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
-showBuiltWith = tru
+showBuiltWith = true
 
 [params.social]  
   twitter = "asoliveira"
