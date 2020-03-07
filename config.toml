@@ -1,4 +1,4 @@
-baseURL = "https://example.org/"
+baseURL = "https://allyson.cloud/"
 languageCode = "en-us"
 title = "Allyson Oliveira"
 theme = "hyde-hyde"
@@ -11,4 +11,15 @@ description = "Churrasqueiro nos finais de semana e desenvolvendo infraestrutura
   github = "allysono"
   linkedin = "allysonoliveira"
   telegram = "sre_allyson"
-  
+
+## Main Menu
+[[menu.main]]
+    name = "Posts"
+    weight = 100
+    identifier = "posts"
+    url = "/posts/"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
