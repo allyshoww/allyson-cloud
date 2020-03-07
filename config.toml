@@ -19,7 +19,7 @@ description = "Churrasqueiro nos finais de semana e desenvolvendo infraestrutura
     identifier = "posts"
     url = "/posts/"
 [[menu.main]]
-    name = "About"
-    identifier = "about"
+    name = "Sobre Mim"
+    identifier = "Sobre Mim"
     weight = 200
-    url = "/page/about.md"
+    url = "/about/"
