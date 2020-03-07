@@ -19,7 +19,7 @@ Com essa task em wip, pensei que tinham duas maneiras para fazer:
 
 Ou editar um arquivo chamado terraform.TFVARS, adicionar as tags necessárias, copiar esse arquivo para todos os recursos e mover a task para done!
 
-![enter image description here](/static/img/magic.jpeg)
+![It's magic!](/img/magic.jpeg)
 
 Mas pera lá, o que é o **arquivo .tfvars?**
 Eu aprendi que um arquivo com essa extensão é um arquivo de resposta. Eu entendo que uma vez que o terraform passou nos testes, o código está pronto, validado, e esse código que passou nos testes não deve ser mais alterada.
@@ -30,10 +30,12 @@ Você adiciona esse ip no seu arquivo tfvars, não no variable ou vars.tf. Quer 
 
 *Arquivo variables.tf sem que seu projeto tenha o arquivo tfvars.*
 
-> variable "foo" {
-	> default = "bar"
-	description = "Descrição da minha variável"
+```
+variable "foo" {
+default = "bar"
+description = "Descrição da minha variável"
 	}
+```    
 			
 *Arquivo variables.tf com o seu projeto tenha o arquivo tfvars.*
 
@@ -47,10 +49,12 @@ Caso você queira deixar apenas as tags no .tfvars, é possível também. Vai fi
 
 Agora um exemplo de tags:
 
-`tags = {
+```
+tags = {
 
-  "name"               = "PagSeguro Sabadell - Anticipation"
-  "email"              = "l-scrum-sabadell@uolinc.com"
-}`
+  "name"               = "Allyson"
+  "email"              = "asoliveira@outlook.com"
+}
+```
 
 E ai, vocês já usam o .tfvars no código de vocês? 
