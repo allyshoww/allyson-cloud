@@ -1,4 +1,4 @@
-baseURL = "allyson.cloud"
+baseURL = "https://example.org/"
 languageCode = "en-us"
 title = "Allyson Oliveira"
 theme = "hyde-hyde"
