@@ -7,8 +7,8 @@ theme = "hyde-hyde"
 description = "Churrasqueiro nos finais de semana e desenvolvendo infraestrutura de segunda a sexta"
 
 ## Hugo Built-in Features
-disqusShortname = "allysono"
-#googleAnalytics = ""
+#disqusShortname = "allysono"
+googleAnalytics = "UA-162896323-1"
 
 # sidebar, copyright & license
 licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
