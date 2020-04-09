@@ -2,7 +2,7 @@
 title = "Migrando para uma infraestrutura agil"
 date = 2020-04-09T07:16:50Z
 author = "Allyson Oliveira"
-tags = ["linux", "terraform", "automação", "AWS", "Devops", "SRE"]
+tags = ["linux", "terraform", "automação", "AWS", "Devops", "SRE", "jenkins", "github", "docker","kubernetes"]
 description = "Nessa série de textos, irei detalhar um pouquinho de como realizar um projeto de migração de app's on-premises para uma infraestrutura agil"
 +++
 
@@ -20,8 +20,8 @@ Temos muito trabalho para fazer, então mãos a obra. Não que esse jeito seja o
 
 Definimos uma stack de ferramentas que utilizariamos. É mais ou menos assim:
 
-![Stack Devops](/img/stack01.png)
-![Stack Devops](/img/stack02.png)
+![Stack Devops](/img/stack1.png)
+![Stack Devops](/img/stack2.png)
 
 Enquanto trabalhavamos em melhorar a cultura da empresa, estavamos realizando o deploy das ferramentas e a primeira que vou começar será o Jenkins. 
 
