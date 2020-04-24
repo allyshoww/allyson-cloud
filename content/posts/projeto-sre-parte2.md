@@ -6,7 +6,7 @@ tags = ["linux", "terraform", "automação", "AWS", "Devops", "SRE", "jenkins", 
 description = "Nesse texto, vamos entender um pouco sobre mais Terraform e infraestrutura como código."
 +++
 
-Conforme falamos no ultimo post sobre nosso projeto(clique [aqui](projeto-sre-parte1.md)para saber mais), hoje vamos fazer a instalação de uma ferramenta que vamos utilizar nesse projeto.
+Conforme falamos no ultimo post sobre nosso projeto(clique [aqui](https://allyson.cloud/posts/projeto-sre-parte1/) para saber mais), hoje vamos fazer a instalação de uma ferramenta que vamos utilizar nesse projeto.
 
 Vamos começar com a instalação do **Terraform**, que é a ferramenta que vamos utilizar para providenciar a *infraestrutura como código*. Mas antes, o que é infraestrutura como código e quais suas vantagens?
 
@@ -25,7 +25,7 @@ Além disso, imagina o trabalho que é providenciar um hardware para um novo ser
 Falando em vantagens, imagina que você tem vários *Security Groups* no seu ambiente. Quando se cria uma nova máquina na AWS, você tem que inserir um *Security Group* ou criar um novo. PAra inserir um novo existente, você tem que digitar o *id* que ele possui ou pesquisar pelo nome. Se você digitar o nome ou o código errado, você pode adicionar um *SG* errado. Com IaC, você escolhe qual recurso você quer usar e seta esse recurso em todas as máquinas com duas linhas, por exemplo:
 
 ```HCL
-count = "20" # Essa linha diz que você está criando 20 máquinas virtuais iguais
+count = "20" # Criação 20 máquinas virtuais iguais
 security_groups = ["sg-a1b2c3d4"]
 ```
 
