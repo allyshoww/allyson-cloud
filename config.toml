@@ -2,10 +2,11 @@ baseURL = "https://allyson.cloud/"
 languageCode = "en-us"
 title = "Allyson Oliveira"
 theme = "hyde-hyde"
+googleAnalytics = "UA-162896323-1"
 
 [params]
 description = "Churrasqueiro nos finais de semana e desenvolvendo infraestrutura de segunda a sexta!"
-googleAnalytics = "UA-162896323-1"
+
 
 # sidebar, copyright & license
 licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
