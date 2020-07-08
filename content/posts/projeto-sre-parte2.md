@@ -12,7 +12,7 @@ Vamos começar com a instalação do **Terraform**, que é a ferramenta que vamo
 
 Vamos para um exemplo prático:
 
-Para você criar uma máquina na AWS, por exemplo, você precisa de uns 5 minutos no máximo e 10 cliques. Bem simples, né? Agora imagina que você tenha que criar 10, 15, 20 máquinas com as mesmas configurações? Trabalho super repetitivo e de *estagiário* né, rs?
+Para você criar uma máquina na AWS, por exemplo, você precisa de uns 5 minutos no máximo e 10 cliques. Bem simples, né? Agora imagina que você tenha que criar 10, 15, 20 máquinas com as mesmas configurações? Trabalho super repetitivo e de *estagiário* né, rs? Brincadeiras a parte, ninguém merece fazer trabalhos assim!
 
 ![Tudo culpa do estagiario](/img/estagiario.png)
 

@@ -32,6 +32,6 @@ Trabalho atualmente com arquitetura, implementação, monitoramento e gerenciame
 
 ## Escolaridade
 
-Sou pós graduado em Cloud Computing pela Estacio e estou afim de tentar fazer mestrado na [UFSCAR](http://www.propg.ufscar.br/pt-br/pos-na-ufscar/programas) em araraquara, contando com a ajuda e dicas de um grande profissional, o [André Luis Cristiani!](http://localhost:1313/) 
+Sou pós graduado em Cloud Computing pela Estacio e estou afim de tentar fazer mestrado na [UFSCAR](http://www.propg.ufscar.br/pt-br/pos-na-ufscar/programas) em araraquara, contando com a ajuda e dicas de um grande profissional, o [André Luis Cristiani!](https://www.linkedin.com/in/andr%C3%A9-luis-cristiani-163245a1/)
 
 Quem sabe um dia né! ^.^y

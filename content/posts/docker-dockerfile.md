@@ -2,7 +2,7 @@
 title = "Docker & Dockerfile, que dupla hein!"
 date = 2020-05-18T07:16:50Z
 author = "Allyson Oliveira"
-tags = ["linux", "terraform", "automação", "AWS", "Devops", "SRE", "jenkins", "github", "docker","kubernetes", "golang","go"]
+tags = ["linux", "terraform", "automação", "AWS", "Devops", "SRE", "jenkins", "github", "docker","kubernetes", "golang","go", "Python", "dockerfile"]
 description = "Bora ver como funciona o docker e o dockerfile?"
 +++
 
@@ -10,13 +10,13 @@ Se você está aqui, provavelmente já conhece Docker e suas funcionalidades. An
 
 **História**
 
-Em um resumo rápido, o docker nascceu por meados de 2013 pela *dotCloud*, que era uma empresa de hospedagem que utilizava containers em todo seu ambiente. Através da tecnologia *LXC* (Linux Containers - já presentes na época), era possível isolar, vários outros "sistemas operacionais", usando chroots, namespaces, jails, etc.Isso deu tanto certo que a empresa resolveu comercializar essa solução. Se você quiser conhecer mais sobre essa história, clica [aqui](https://www.linuxnocafe.com.br/historia-chroot-docker/) 
+Em um resumo rápido, o docker nasceu por meados de 2013 pela *dotCloud*, que era uma empresa de hospedagem que utilizava containers em todo seu ambiente. Através da tecnologia *LXC* (Linux Containers - já presentes na época), era possível isolar, vários outros "sistemas operacionais", usando chroots, namespaces, jails, etc.Isso deu tanto certo que a empresa resolveu comercializar essa solução. Se você quiser conhecer mais sobre essa história, clica [aqui](https://www.linuxnocafe.com.br/historia-chroot-docker/) 
 
 Você viu alguma semelhança entre docker e máquinas virtuais? Pois é, são conceitos semelhantes e arquiteturas diferentes. Dá uma olhada nessa imagem:
 
 ![Arquitetura Docker](/img/arquitetura.png)
 
-Veja a quantidade de camadas que uma arquitetura de virtualização contra a engine de docker? Note que no docker não tem o "Guest OS", que é o sistema operacional virtualizado dentro do VMware. Então, elimine todo o gerenciamento que essa camada precisa (Monitorament, administração, etc). No docker, um sistemas operacional é compartilhado por todos os containers, facilitando o dia-a-dia dos sysadmins/SRE.
+Veja a quantidade de camadas que uma arquitetura de virtualização contra a engine de docker? Note que no docker não tem o "Guest OS", que é o sistema operacional virtualizado dentro do VMware. Então, elimine todo o gerenciamento que essa camada precisa (Monitoramento, sustentação, etc). No docker, um sistemas operacional é compartilhado por todos os containers, facilitando o dia-a-dia dos sysadmins/SRE.
 
 Ficou claro? Se não ficou, [#vemdetwitter](https://twitter.com/asoliveira)
 

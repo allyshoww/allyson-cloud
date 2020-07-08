@@ -5,16 +5,12 @@ author = "Allyson Oliveira"
 tags = ["linux", "terraform", "automação", "AWS", "Devops", "Sre"]
 description = "Precisa alterar ou adicionar várias tags de uma vez só? Dá uma espiadinha!"
 +++
-
-## Adicionando tags com o arquivo .tfvars na AWS
-
 Esses dias eu tive uma tarefa no trabalho que era adicionar tags em recursos já existentes. Por exemplo:
 
 ```
 Nome da app: Parasite
 Owner: Mr.Kim
 ```
-
 Na task, falava que todos os recursos da AWS precisam ter essas duas novas tags, para  facilitar o controle financeiro.
 
 Com essa task em wip, pensei que tinham duas maneiras para fazer:
@@ -60,5 +56,4 @@ tags = {
   "email"              = "asoliveira@outlook.com"
 }
 ```
-
 E ai, vocês já usam o .tfvars no código de vocês? Comenta ai! :D
