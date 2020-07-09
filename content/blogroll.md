@@ -17,7 +17,8 @@ Estão afim de seguir uma galera que é fera na area e sempre compartilha conteu
 8. [Rafael Gomes - Gomex](https://gomex.me/)
 9. [Jeferson Noronha - Badtux](https://www.linuxtips.io/)
 10. [Linux-ServerIO] (https://blog.linuxserver.io/)
-11. [Getup-Cloud]-(https://blog.getupcloud.com/)
-12. [Hector Vido] - (https://hectorvido.dev/)
+11. [Getup-Cloud](https://blog.getupcloud.com/)
+12. [Hector Vido](https://hectorvido.dev/)
+13. [Mateus Muller](https://4fasters.com.br/)
 
 Se tiver mais alguém aqui, me passa o blog que eu adiciono! :D 
