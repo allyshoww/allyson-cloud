@@ -6,7 +6,7 @@ googleAnalytics = "UA-162896323-1"
 
 [params]
 description = "Churrasqueiro nos finais de semana e desenvolvendo infraestrutura de segunda a sexta!"
-
+disqusShortname = "Allyson Oliveira"
 
 # sidebar, copyright & license
 licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
