@@ -22,7 +22,7 @@ Lembra o que é imagem? Então, esse comando lista as imagens que você tem na s
 
  Se não lembrar, [clica aqui!](https://allyson.cloud/posts/docker-dockerfile/)
 
- *docker build**
+**docker build**
 Esse comando builda a imagem a partir do seu dockerfile. Exemplo:
 docker build . -t ubuntu:1
 
@@ -36,15 +36,15 @@ Para facilitar, já construa sua imagem com e as regras do seu repositório, por
 
 docker build . -t repositório-do-allyson/imagem-base/app01/python-helloworld:1
 
-*docker push*
+**docker push**
 Com esse comando, eu envio as imagens docker que eu trabalhei para o registry (Pode ser o registry da AWS ou qualquer outra ferramenta que armazena suas imagens). O comando fica assim:
 docker push repositório-do-allyson/imagem-base/app01/python-helloworld:1
 
-*docker pull* 
+**docker pull**
 Com o docker pull *nomedaimage* eu baixo a imagem para minha máquina ou servidor para realização do troubleshooting. Fica assim o comando:
 docker pull ubuntu
 
-*docker run*
+**docker run**
 Esse é o comando para você executar um container a partir do seu dockerfile e da sua imagem já construida. Existe uma série de parametros que podem ser uteis para você, mas eu sou basicamente esses aqui:
 
 docker run -it python-helloworld:1
