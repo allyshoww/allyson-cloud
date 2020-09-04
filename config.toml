@@ -5,8 +5,8 @@ theme = "hyde-hyde"
 googleAnalytics = "UA-162896323-1"
 
 [params]
-description = "Churrasqueiro nos finais de semana e desenvolvendo infraestrutura de segunda a sexta!"
-authorimage=static/img/profile.jpeg
+description = "Churrasqueiro nos finais de semana e arquitetando infraestrutura em cloud de segunda a sexta!"
+authorimage=/static/img/profile.jpeg
 highlightjs = true
 highlightjsstyle = "github"
 disqusShortname = "allyshow"
