@@ -24,8 +24,6 @@ icon = "fa-twitter"
 title = "Twitter"
 url = "/asoliveira"
 
-
-
 #[params.social]  
 #  twitter = "asoliveira"
 #  github = "allysono"
