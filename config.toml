@@ -1,7 +1,9 @@
-baseURL = "https://allyson.cloud/"
+baseURL = "https://allysonoliveira.com.br"
 languageCode = "en-us"
 title = "Allyson Oliveira"
 theme = "soho"
+enableEmoji: true
+enableRobotsTXT: true
 googleAnalytics = "UA-162896323-1"
 
 [params]
