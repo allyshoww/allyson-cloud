@@ -13,7 +13,7 @@ Trabalho atualmente com arquitetura, implementação, monitoramento e gerenciame
 
 **Meus principais conhecimentos:**
 
-• *Amazon Web Services*, *Azure* e *Google Cloud*;
+• *Amazon Web Services*;
 
 • Orquestração de containers com *Kubernetes* e *Docker Swarm*;
 
