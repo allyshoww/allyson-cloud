@@ -1,7 +1,7 @@
+baseURL = "https://www.allysonoliveira.com.br"
 languageCode = "en-us"
 enableInlineShortcodes = true
 title = "Allyson Oliveira"
-baseURL = "https://www.allysonoliveira.com.br"
 theme = "soho"
 enableEmoji: true
 enableRobotsTXT: true
