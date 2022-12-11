@@ -1,12 +1,12 @@
 baseURL = "https://allyson.cloud/"
 languageCode = "en-us"
 title = "Allyson Oliveira"
-theme = "hyde-hyde"
+theme = "soho"
 googleAnalytics = "UA-162896323-1"
 
 [params]
 description = "Churrasqueiro nos finais de semana e arquitetando infraestrutura em cloud de segunda a sexta!"
-authorimage="/img/profile.png"
+profilePicture="/img/profile.png"
 highlightjs = true
 highlightjsstyle = "github"
 disqusShortname = "allyshow"
