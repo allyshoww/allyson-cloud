@@ -5,7 +5,7 @@ theme = "soho"
 googleAnalytics = "UA-162896323-1"
 
 [params]
-description = "Churrasqueiro nos finais de semana e arquitetando infraestrutura em cloud de segunda a sexta!"
+description = "Arquiteto de soluções na AWS | DevSecOps"
 profilePicture="/img/profile.png"
 highlightjs = true
 highlightjsstyle = "github"
@@ -14,12 +14,24 @@ disqusShortname = "allyshow"
 # sidebar, copyright & license
 licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
 
-[params.social]  
-  twitter = "asoliveira"
-  github = "allysono"
-  linkedin = "allysonoliveira"
-  telegram = "sre_allyson"
-  email = "asoliveira@outlook.com"
+[[params.socialIcons]]
+icon = "fa-linkedin"
+title = "Linkedin"
+url = "/allysonoliveira"
+
+[[params.socialIcons]]
+icon = "fa-twitter"
+title = "Twitter"
+url = "/asoliveira"
+
+
+
+#[params.social]  
+#  twitter = "asoliveira"
+#  github = "allysono"
+#  linkedin = "allysonoliveira"
+#  telegram = "sre_allyson"
+#  email = "asoliveira@outlook.com"
 
 ## Main Menu
 [[menu.main]]
@@ -28,7 +40,7 @@ licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
     identifier = "posts"
     url = "/posts/"
 [[menu.main]]
-    name = "Sobre Mim"
+    name = "Fale comigo!"
     identifier = "Sobre Mim"
     weight = 200
     url = "/about/"
