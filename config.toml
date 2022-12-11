@@ -7,7 +7,7 @@ enableRobotsTXT: true
 googleAnalytics = "UA-162896323-1"
 
 [params]
-description = "Arquiteto de soluções na AWS | DevSecOps"
+description = "Arquiteto de soluções na @AWS | DevSecOps"
 profilePicture="/img/profile.png"
 highlightjs = true
 highlightjsstyle = "github"

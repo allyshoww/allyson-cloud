@@ -20,7 +20,7 @@ Lembra o que é imagem? Então, esse comando lista as imagens que você tem na s
 . Created: Quando essa imagem foi criada.
 . Size: É o tamanho da imagem. 
 
- Se não lembrar, [clica aqui!](https://allyson.cloud/posts/docker-dockerfile/)
+ Se não lembrar, [clica aqui!](https://allysonoliveira.com.br/posts/docker-dockerfile/)
 
 **docker build**
 Esse comando builda a imagem a partir do seu dockerfile. Exemplo:
