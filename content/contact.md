@@ -1,6 +1,5 @@
 +++
 title = "Fale comigo"
-date = 2020-02-25T1:13:50Z
 author = "Allyson Oliveira"
 description = "Quer trocar uma ideia?"
 +++
