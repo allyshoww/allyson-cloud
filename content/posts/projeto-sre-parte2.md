@@ -1,12 +1,12 @@
 +++
-title = "Vantagens Terraform!"
-date = 2020-04-24T07:16:50Z
+title = "Vantagens de utlização de terraform e Infraestrutura como código"
+date = 2022-04-24T07:16:50Z
 author = "Allyson Oliveira"
 tags = ["linux", "terraform", "automação", "AWS", "Devops", "SRE", "jenkins", "github", "docker","kubernetes"]
 description = "Nesse texto, vamos entender um pouco sobre mais Terraform e infraestrutura como código."
 +++
 
-Conforme falamos no ultimo post sobre nosso projeto(clique [aqui](https://allyson.cloud/posts/projeto-sre-parte1/) para saber mais), hoje vamos fazer a instalação de uma ferramenta que vamos utilizar nesse projeto.
+Conforme falamos no ultimo post sobre nosso projeto(clique [aqui](https://allysonoliveira/posts/projeto-sre-parte1/) para saber mais), hoje vamos fazer a instalação de uma ferramenta que vamos utilizar nesse projeto.
 
 Vamos começar com a instalação do **Terraform**, que é a ferramenta que vamos utilizar para providenciar a *infraestrutura como código*. Mas antes, o que é infraestrutura como código e quais suas vantagens?
 

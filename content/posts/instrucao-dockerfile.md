@@ -1,6 +1,6 @@
 +++
 title = "Instruções Dockerfile!"
-date = 2020-07-01T07:16:50Z
+date = 2022-07-01T07:16:50Z
 author = "Allyson Oliveira"
 tags = ["linux", "terraform", "automação", "AWS", "Devops", "SRE", "jenkins", "github", "docker","kubernetes", "golang","go", "python", "devops", "blog devops", "dockerfile"]
 description = "Vamos escrever juntos nosso primeiro Dockerfile?"

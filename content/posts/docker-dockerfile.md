@@ -1,6 +1,6 @@
 +++
 title = "Docker & Dockerfile, que dupla hein!"
-date = 2020-05-18T07:16:50Z
+date = 2022-05-18T07:16:50Z
 author = "Allyson Oliveira"
 tags = ["linux", "terraform", "automação", "AWS", "Devops", "SRE", "jenkins", "github", "docker","kubernetes", "golang","go", "Python", "dockerfile"]
 description = "Bora ver como funciona o docker e o dockerfile?"

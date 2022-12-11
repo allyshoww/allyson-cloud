@@ -1,6 +1,6 @@
 +++
 title = "Migrando para uma infraestrutura agil"
-date = 2020-04-09T07:16:50Z
+date = 2022-04-09T07:16:50Z
 author = "Allyson Oliveira"
 tags = ["linux", "terraform", "automação", "AWS", "Devops", "SRE", "jenkins", "github", "docker","kubernetes"]
 description = "Nessa série de textos, irei detalhar um pouquinho de como realizar um projeto de migração de app's on-premises para uma infraestrutura agil"
