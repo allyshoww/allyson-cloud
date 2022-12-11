@@ -1,4 +1,4 @@
-baseUrl = "https://www.allysonoliveira.com.br"
+baseURL = "https://www.allysonoliveira.com.br"
 languageCode = "en-us"
 enableInlineShortcodes = true
 title = "Allyson Oliveira"
