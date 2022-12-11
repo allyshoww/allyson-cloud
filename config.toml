@@ -17,12 +17,12 @@ licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
 [[params.socialIcons]]
 icon = "fa-linkedin"
 title = "Linkedin"
-url = "/allysonoliveira"
+url = "https://www.linkedin.com/in/allysonoliveira"
 
 [[params.socialIcons]]
 icon = "fa-twitter"
 title = "Twitter"
-url = "/asoliveira"
+url = "https://twitter.com/asoliveira"
 
 #[params.social]  
 #  twitter = "asoliveira"
