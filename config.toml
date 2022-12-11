@@ -1,5 +1,6 @@
-baseurl = www.allysonoliveira.com.br
+baseurl = "https://www.allysonoliveira.com.br"
 languageCode = "en-us"
+enableInlineShortcodes = true
 title = "Allyson Oliveira"
 theme = "soho"
 enableEmoji: true
