@@ -27,13 +27,6 @@ icon = "fa-twitter"
 title = "Twitter"
 url = "https://twitter.com/asoliveira"
 
-#[params.social]  
-#  twitter = "asoliveira"
-#  github = "allysono"
-#  linkedin = "allysonoliveira"
-#  telegram = "sre_allyson"
-#  email = "asoliveira@outlook.com"
-
 ## Main Menu
 [[menu.main]]
     name = "Posts"
