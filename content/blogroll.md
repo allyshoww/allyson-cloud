@@ -20,5 +20,6 @@ Estão afim de seguir uma galera que é fera na area e sempre compartilha conteu
 11. [Getup-Cloud](https://blog.getupcloud.com/)
 12. [Hector Vido](https://hectorvido.dev/)
 13. [Mateus Muller](https://4fasters.com.br/)
+14. [Mark - cloud security](https://markn.ca/)
 
 Se tiver mais alguém aqui, me passa o blog que eu adiciono! :D 
