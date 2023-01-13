@@ -1,3 +1,11 @@
++++
+title = "Playlist de Segurança e Containers do re:invent 2022"
+date = 2023-01-13T07:16:50Z
+author = "Allyson Oliveira"
+tags = ["AWS", "EKS", "automação", "Segurança", "Security", "SRE", "kubernetes"]
+description = "Bora ver alguns videos de segurança e container do re:invent de 2022?"
++++
+
 Salve salve time! Tudo bem com vocês?
 
 Ultimo post do ano, rsrs! 2022 um ano repleto de desafios, novidades, projetos, conquistas e lições aprendidas. Muito aprendizado e agora foco em 2023 para fazermos diferentes e termos um ano melhor ainda!
