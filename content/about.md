@@ -7,7 +7,7 @@ description = "$whoami"
 
 Trabalho com tecnologia da informação desde 2006. Na minha carreira, adquiri sólidos conhecimentos em infraestrutura e adminitração de servidores, participando da implementação de diversos projetos (inclusive internacionais) e sempre entregando a melhor solução ao cliente.
 
-O meu background técnico facilitou minha transição para atuar como Devops/SRE.
+O meu background técnico facilitou minha transição para atuar como Devops/SRE em ambientes em Cloud, conhecimento que, junto com as certificações técnicas em Cloud, me ajudaram a ser arquiteto de soluçÕes na AWS.
 
 Trabalho atualmente com arquitetura, implementação, monitoramento e gerenciamento de diversos ambientes em cloud computing, tais como, migração e arquitetura de infraestrutura on-premises para nuvem, monitoramento e gerenciamento de app's em ambientes de cloud e em orquestradores de containeres (Kubernetes, por exemplo), deploy continuo de aplicativos web e mobile, análise da arquitetura de aplicação para deixá-la mais resiliente possível e testes com recuperação de desastres de infraestrutura, atuando sempre com metodologia ageis, com foco em automação de tarefas e redução de tempo gasto em determinadas atividades.
 
